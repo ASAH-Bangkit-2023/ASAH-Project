@@ -22,4 +22,4 @@ ASAH (Aplikasi Sortir Sampah) is an application aimed at encouraging the communi
 | ☁️ Cloud Computing  |   [CC Repository](https://github.com/ASAH-Bangkit-2023/CC) |
 | 📱 Mobile Development | [MD Repository](https://github.com/ASAH-Bangkit-2023/MD) |
 
-<p align="right"> C23-PS225 Team </p>
+<p align="right">Aye aye aye <br/>C23-PS225 Team </p>
