@@ -1,3 +1,8 @@
+# 📑About Our Project
+ASAH (Aplikasi Sortir Sampah) is an application aimed at encouraging the community to manage waste in an appropriate manner and provides rewards when users successfully manage their waste correctly. In our application, users are required to sort their waste first, and then they can dispose of or donate their waste to recycling agencies in their vicinity.
+
+# Preview of ASAH (Aplikasi Sortir Sampah) - Bangkit Capstone Project 2023
+  ![ASAH Project](image.png)
 # The Team
 
 |            Member           | Student ID |        Path        |        Contacts        |
@@ -16,3 +21,5 @@
 | 🤖 Machine Learning  |  [ML Repository](https://github.com/ASAH-Bangkit-2023/ML) |
 | ☁️ Cloud Computing  |   [CC Repository](https://github.com/ASAH-Bangkit-2023/CC) |
 | 📱 Mobile Development | [MD Repository](https://github.com/ASAH-Bangkit-2023/MD) |
+
+<p align="right"> C23-PS225 Team </p>
